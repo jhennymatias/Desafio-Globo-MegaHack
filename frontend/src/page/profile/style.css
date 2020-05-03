@@ -1,0 +1,23 @@
+.content{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+.content p{
+    color: gray;
+}
+
+.content ul{
+    margin-top: 20px;
+    background-color: white;
+}
+.content ul li{
+    border-bottom: 1px solid lightgray;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+    color: #444;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,25 @@
+.tudo{
+    background-image: url(../../assets/cidade.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    width: 100%;
+    max-width: 1120px;
+    min-height: 100vh;
+}
+
+.headerWelcome{
+    height: 100%;
+    margin-top:250px;
+    text-align: center;
+}
+
+.headerWelcome p{
+    color: black;
+    margin-top:20px;
+    margin-bottom:50px;
+}
+
+.headerWelcome a{
+    max-width: 300px;
+}
