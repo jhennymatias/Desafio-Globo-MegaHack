@@ -1,0 +1,31 @@
+form{
+    background-image: url(../../assets/cidade.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin:0px;
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+}
+
+h1{
+    align-items: center;
+    text-align: center;
+    color:white;
+}
+
+.link{ 
+    align-items: center;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+.link:hover{
+    color: #333;
+}
